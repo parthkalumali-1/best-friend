@@ -6,17 +6,17 @@
         gif: "gif1.gif"
     },
     { 
-        text: "jo plan hua tha , In bengali ota dee 🙈💗 ", 
-        emoji: "😆",
+        text: "You always understand me even when I don’t say a word. 🤝 ", 
+        emoji: "💭",
         gif: "gif2.gif"
     },
     { 
-        text: "Kitnii Chillati hy mere upar isliyee, hehehe 💕", 
+        text: "You’re the first person I want to tell everything to. 📲💌", 
         emoji: "👂",
         gif: "gif1.gif"
     },
     { 
-        text: "Our inside jokes are literally the best thing ever~", 
+        text: "Because life without you would be boring as hell. 🌍✨", 
         emoji: "🚀",
         gif: "gif2.gif"
     }
